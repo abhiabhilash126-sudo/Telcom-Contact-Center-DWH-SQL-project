@@ -1,0 +1,26 @@
+call_reason_id,category,subcategory,reason_description
+CR001,Technical,Connectivity,Internet not working
+CR002,Technical,Speed,Slow internet
+CR003,Technical,Router,Router issue
+CR004,Technical,Wi-Fi,Wi-Fi connectivity issue
+CR005,Technical,Installation,Installation support
+CR006,Billing,Payment,Payment failed
+CR007,Billing,Invoice,Incorrect bill
+CR008,Billing,Refund,Refund request
+CR009,Billing,Payment,Payment confirmation
+CR010,Account,Profile,Update account details
+CR011,Account,Password,Password reset
+CR012,Account,Verification,Identity verification
+CR013,Plan,Upgrade,Upgrade plan
+CR014,Plan,Downgrade,Downgrade plan
+CR015,Plan,Change,Plan change inquiry
+CR016,Cancellation,Service,Cancel service
+CR017,Complaint,Service,Poor service complaint
+CR018,Network,Outage,Area outage
+CR019,Network,Coverage,Poor network coverage
+CR020,Network,Roaming,Roaming issue
+CR021,Mobile,SIM,SIM replacement
+CR022,Mobile,Activation,SIM activation
+CR023,Mobile,Data,Mobile data issue
+CR024,Sales,Add-on,Add-on purchase
+CR025,Sales,New Service,New service inquiry
