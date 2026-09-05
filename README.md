@@ -37,7 +37,7 @@ Business rules:
 - CSAT valid range: 1-5
 - NPS valid range: 0-10
 
-Intentional data-quality issues:
+Data-quality issues:
 - trailing spaces
 - inconsistent sentiment capitalization
 - invalid CSAT/NPS values
